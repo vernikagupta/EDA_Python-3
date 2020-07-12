@@ -1,4 +1,4 @@
-#Projects
+#This repo is basically Exploratory data analysis of datasets to get hands on with various python libraries and statistical concepts.
 
 #Project 1 : BookStore
 This Project is based on Python GUI Module Tkinter.
@@ -21,7 +21,7 @@ Discipline : Data visualization, Data manipulation
 Uses Pandas, matplotlib
 Discipline : Data visualization, Data manipulation 
 
-# Project 7: Exploring the evolution of Linux
+#Project 7: Exploring the evolution of Linux
 In this project, I analyzed the git log data for the Linux development open project and found out the Top contributors in the development of Linux and year in which maximum contribution made.
 I also found the total number of contributors and total commits made by each contributor.
 
